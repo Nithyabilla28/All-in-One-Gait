@@ -13,7 +13,7 @@ Users are encougraed to update the gait recognition models with watching the las
 ## Demo Results
 
 <div align="center">
-       <img src="./OpenGait/demo/output/demo_video_result/gallery.gif"       width = "144" height = "256" alt="gallery" /> 
+       <img src="./OpenGait/demo/output/demo_video_result/gallery.gif"      width = "144" height = "256" alt="gallery" /> 
        <img src="./OpenGait/demo/output/demo_video_result/probe1-After.gif"  width = "455" height = "256" alt="probe1-After" />
        <img src="./OpenGait/demo/output/demo_video_result/probe2-After.gif"  width = "144" height = "256" alt="probe2-After" /> 
 </div>
