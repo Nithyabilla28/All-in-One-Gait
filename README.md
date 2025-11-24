@@ -123,32 +123,11 @@ output
 
 **{timestamp}**: Store the result video of tracking here, naming it consistent with the input video. In addition, videos named like G-{gallery_video_name}_P-{probe_video_name}.mp4 are obtained after gait recognition.
 
-## Authors
-
-**OpenGait Team (OGT)**
-
-- [Dongyang Jin(金冬阳)](https://faculty.sustech.edu.cn/?p=176498&tagid=yusq&cat=2&iscss=1&snapid=1&go=1&orderby=date), 11911221@mail.sustech.edu.cn
-- [Chao Fan (樊超)](https://faculty.sustech.edu.cn/?p=128578&tagid=yusq&cat=2&iscss=1&snapid=1&orderby=date), 12131100@mail.sustech.edu.cn
-- [Rui Wang(王睿)](https://faculty.sustech.edu.cn/?p=161705&tagid=yusq&cat=2&iscss=1&snapid=1&go=1&orderby=date), 12232385@mail.sustech.edu.cn
-- [Chuanfu Shen (沈川福)](https://faculty.sustech.edu.cn/?p=95396&tagid=yusq&cat=2&iscss=1&snapid=1&orderby=date), 11950016@mail.sustech.edu.cn
-- [Junhao Liang (梁峻豪)](https://faculty.sustech.edu.cn/?p=95401&tagid=yusq&cat=2&iscss=1&snapid=1&orderby=date), 12132342@mail.sustech.edu.cn
 
 ## Acknowledgement
 - Gait Recognition: [OpenGait](https://github.com/ShiqiYu/OpenGait)
 - Pedestrian Tracking: [ByteTrack](https://github.com/ifzhang/ByteTrack)
 - Pedestrian Segementation: [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
-
-## Citation
-```
-@InProceedings{Fan_2023_CVPR,
-    author    = {Fan, Chao and Liang, Junhao and Shen, Chuanfu and Hou, Saihui and Huang, Yongzhen and Yu, Shiqi},
-    title     = {OpenGait: Revisiting Gait Recognition Towards Better Practicality},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2023},
-    pages     = {9707-9716}
-}
-```
 
 **Note:**
 This code is only used for **academic purposes**, people cannot use this code for anything that might be considered commercial use.
