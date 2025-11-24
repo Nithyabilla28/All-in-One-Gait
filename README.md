@@ -1,4 +1,4 @@
-
+All in One-Gait
 <div align="center"><img src="./assets/track.gif" width = "150" height = "150" alt="track" /><img src="./assets/seg.gif" width = "150" height = "150" alt="seg" /><img src="./assets/sil.gif" width = "150" height = "150" alt="sil" /></div>
 
 
