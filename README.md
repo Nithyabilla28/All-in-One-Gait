@@ -1,8 +1,6 @@
-<img src="./assets/logo2.png" width = "330" height = "110" alt="logo" />
 
 <div align="center"><img src="./assets/track.gif" width = "150" height = "150" alt="track" /><img src="./assets/seg.gif" width = "150" height = "150" alt="seg" /><img src="./assets/sil.gif" width = "150" height = "150" alt="sil" /></div>
 
-🎉🎉🎉 **[*OpenGait*](https://arxiv.org/pdf/2211.06597.pdf) has been accpected by CVPR2023 as a highlight paper！** 🎉🎉🎉
 
 All-in-One-Gait is a sub-project of [OpenGait](https://github.com/ShiqiYu/OpenGait) provided by [Shiqi Yu Group](https://faculty.sustech.edu.cn/yusq/) that develops a gait recognition system.
 
