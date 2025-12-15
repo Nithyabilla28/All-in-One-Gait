@@ -28,7 +28,7 @@ The recognition results are represented by the color of the bounding boxes.
 ## How to use
 
 ### A. Quick Start in Colab 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Nithyabilla28/All-in-One-Gait?tab=readme-ov-file)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10kaQRL6L2S5Y79OqnzzPn2pRPfjDdJtF)
 
 ### B. Run on the host machine
 
